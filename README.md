@@ -17,8 +17,8 @@
   <a href="https://instagram.com/himanshugupta.673" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-himanshugupta.673-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
- <a href="mailto:himanshuu673@gmail.com">
-  <img src="https://img.shields.io/badge/-himanshuu673-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
+ <a href="mailto:himanshuu673@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-himanshuu673-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
 </a>
 
 

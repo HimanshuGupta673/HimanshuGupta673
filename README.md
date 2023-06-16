@@ -11,7 +11,7 @@
 - 📫 How to reach me **himanshuu673@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
- [![Linkedin Badge](https://img.shields.io/badge/-Shashwat_Sahu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sahu-1427501aa/) [![Mail Badge](https://img.shields.io/badge/-@xprosecraze-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/xprose_craze/) [![Mail Badge](https://img.shields.io/badge/-shashwatsahu25-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shashwatsahu25@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Shashwat_Sahu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sahu-1427501aa/)
 
 
 

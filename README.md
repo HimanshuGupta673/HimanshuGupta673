@@ -11,9 +11,15 @@
 - 📫 How to reach me **himanshuu673@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/shashwat-sahu-1427501aa/" target="_blank">
-  <img src="https://img.shields.io/badge/-Shashwat_Sahu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+ <a href="https://www.linkedin.com/in/himanshu-gupta-85858014b" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Himanshu_Gupta-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://instagram.com/himanshugupta.673" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-himanshugupta.673-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <a href="https://www.leetcode.com/h_gupta" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-h__gupta-F89F1B?style=flat&labelColor=F89F1B&logo=leetcode&logoColor=white" alt="LeetCode Badge">
+  </a>
 
 
 

@@ -11,7 +11,10 @@
 - 📫 How to reach me **himanshuu673@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-Shashwat_Sahu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sahu-1427501aa/)
+<a href="https://www.linkedin.com/in/shashwat-sahu-1427501aa/" target="_blank">
+  <img src="https://img.shields.io/badge/-Shashwat_Sahu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 
 
 

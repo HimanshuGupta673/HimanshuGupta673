@@ -11,11 +11,9 @@
 - 📫 How to reach me **himanshuu673@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/himanshu-gupta-85858014b" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png" alt="himanshu gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshugupta.673" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="himanshugupta.673" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/h_gupta" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="h_gupta" height="30" width="40" /></a>
-</p>
+ [![Linkedin Badge](https://img.shields.io/badge/-Shashwat_Sahu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sahu-1427501aa/) [![Mail Badge](https://img.shields.io/badge/-@xprosecraze-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/xprose_craze/) [![Mail Badge](https://img.shields.io/badge/-shashwatsahu25-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shashwatsahu25@gmail.com)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

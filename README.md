@@ -21,9 +21,22 @@
   <img align="center" src="https://img.shields.io/badge/-himanshuu673-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
 </a>
 
+<h3>Top Technologies</h3>
+<a href="#" target="_blank">
+  <img align="center" alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" align="center" />
+</a>
 
+<a href="#" target="_blank">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" align="center" />
+</a>
 
+<a href="#" target="_blank">
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" align="center" />
+</a>
 
+<a href="#" target="_blank">
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab" align="center" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

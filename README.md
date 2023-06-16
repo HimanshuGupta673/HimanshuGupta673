@@ -17,9 +17,10 @@
   <a href="https://instagram.com/himanshugupta.673" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-himanshugupta.673-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://www.leetcode.com/h_gupta" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-h__gupta-F89F1B?style=flat&labelColor=F89F1B&logo=leetcode&logoColor=white" alt="LeetCode Badge">
-  </a>
+ <a href="mailto:himanshuu673@gmail.com">
+  <img src="https://img.shields.io/badge/-himanshuu673-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
+</a>
+
 
 
 

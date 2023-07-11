@@ -21,7 +21,7 @@
   <img align="center" src="https://img.shields.io/badge/-himanshuu673-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
 </a>
 
-<h3>Top Technologies</h3>
+<h3>Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -39,7 +39,7 @@
 <img alt="React Native" src ="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white"/>
 </div>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -48,7 +48,7 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugupta673&show_icons=true&locale=en&layout=compact" alt="himanshugupta673" /></p>
+<p marginTop:"5px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugupta673&show_icons=true&locale=en&layout=compact" alt="himanshugupta673" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugupta673&show_icons=true&locale=en" alt="himanshugupta673" /></p>
 

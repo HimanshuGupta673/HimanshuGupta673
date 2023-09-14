@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshugupta673&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugupta673" /> </p>
 
-- 🌱 I’m currently learning **MErn stack**
+- 👨‍💻 Software Developer | Coding Enthusiast | Tech Explorer 🚀
 
-- 💬 Ask me about **react**
+- 💡 Constantly immersed in the world of tech innovation.
 
-- 📫 How to reach me **himanshuu673@gmail.com**
+- 📫 How to reach me: himanshuu673@gmail.com
 
 <h3 align="left">Connect with me:</h3>
  <a href="https://www.linkedin.com/in/himanshu-gupta-85858014b" target="_blank">
